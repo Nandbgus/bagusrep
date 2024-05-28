@@ -1,14 +1,14 @@
-Hi there 👋, I'm Nanda Bagus!
-Hi there, I'm Ananda Bagus Fatchurroziq, a Web Developer and a Software Engineering Student 🚀 from Indonesia.
+### Hi there 👋, I'm Nanda Bagus!
 
-Talking about Personal Stuff:
-🔭 I’m currently working on a personal project
-🌱 I’m currently learning React
-👯 I’m looking to collaborate with a team
-📫 How to reach me: nandabgs13@gmail.com
-⚡ Fun fact: I love learning new things
+Hi there, I'm **Ananda Bagus Fatchurroziq**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
 
-### Let's connect!
+### Talking about Personal Stuff:
+- 🔭 I’m currently working on a personal project
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate with a team
+- 📫 How to reach me: [nandabgs13@gmail.com](mailto:nandabgs13@gmail.com)
+- ⚡ Fun fact: I love learning new things
+
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282228507585)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandabgs13@gmail.com?subject=github_message)
