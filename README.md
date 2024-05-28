@@ -1,13 +1,12 @@
-### Hi there 👋, I'm Nanda Bagus!
+Hi there 👋, I'm Nanda Bagus!
+Hi there, I'm Ananda Bagus Fatchurroziq, a Web Developer and a Software Engineering Student 🚀 from Indonesia.
 
-Hi there, I'm **Ananda Bagus Fatchurroziq**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia.
-
-### Talking about Personal Stuffs:
-- 🔭 I’m currently working on personal project
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Team
-- 📫 How to reach me: <a href="mailto:nandabgs13@gmail.com">nandabgs13@gmail.com</a>
-- ⚡ Fun fact: i'm Lazy
+Talking about Personal Stuff:
+🔭 I’m currently working on a personal project
+🌱 I’m currently learning React
+👯 I’m looking to collaborate with a team
+📫 How to reach me: nandabgs13@gmail.com
+⚡ Fun fact: I love learning new things
 
 ### Let's connect!
 
