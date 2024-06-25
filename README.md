@@ -4,7 +4,7 @@ Hi there, I'm **Ananda Bagus Fatchurroziq**, a **Web Developer** and a **Softwar
 
 ### Talking about Personal Stuff:
 - 🔭 I’m currently working on a personal project
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Laravel
 - 👯 I’m looking to collaborate with a team
 - 📫 How to reach me: [nandabgs13@gmail.com](mailto:nandabgs13@gmail.com)
 - ⚡ Fun fact: I love learning new things
